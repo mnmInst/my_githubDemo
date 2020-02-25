@@ -3,4 +3,3 @@
 1992: ecole primaire.
 1998: collège.
 2006: bac failure.
-2007: base success.
